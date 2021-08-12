@@ -1,0 +1,15 @@
+1. Anh chị hãy trình bày những kiến thức, kĩ năng cần thiết gì để trở thành một quản trị mạng cho một doanh nghiệp quy mô:
+
+- Nhỏ (từ 1-50 người)
+
+- Nhỏ (từ 51-500 người)
+
+- Trung bình (501-1000 người)
+
+- Lớn (trên 1000 người)
+
+2. Nêu những thuận lợi của mạng máy tính khi đối phó với tình hình dịch bệnh.
+
+3. Vẽ lại sơ đồ hệ thống mạng của gia đình, hoặc của người thân.
+
+3. Làm các bài tập trắc nghiệm cuối chương.
